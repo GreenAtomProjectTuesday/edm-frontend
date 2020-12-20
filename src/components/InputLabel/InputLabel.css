@@ -1,0 +1,12 @@
+
+.InputLabel {
+    display: block;
+}
+
+.InputLabel-labelContainer {
+    margin-bottom: 3px;
+}
+
+.InputLabel + .InputLabel {
+    margin-top: 13px;
+}
